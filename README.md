@@ -4,7 +4,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" %}
 
-\*\*\*\*
 
 Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.
 
@@ -18,9 +17,11 @@ If you can't find the answer you're looking for, contact us at [support@opencoll
 
 ### Reading more about our community
 
-Read our **Terminology** page to know more about all key members of our community:
+Read our [**Terminology**](about/terminology.md) page to know more about all key members of our community:
 
 {% page-ref page="about/terminology.md" %}
+
+{% page-ref page= "about/company.md" %}
 
 ### Using our search bar
 
