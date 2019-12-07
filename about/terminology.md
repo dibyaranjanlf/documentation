@@ -1,8 +1,5 @@
 ---
-description: >-
-  We have developed some terminology to describe interactions and roles on Open
-  Collective.  Please use these terms when creating issues or support requests,
-  instead of user —everyone is a user!
+description: This is a description
 ---
 
 # Terminology
@@ -13,17 +10,17 @@ People are _individuals_. **They can form** _entities_ inside Open Collective, l
 
 ## Entities & structure
 
-![](/.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
+![](../.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
 
-### Individuals ![](/.gitbook/assets/about_terminology_individual_2019-07-09-1.png)
+### Individuals ![](../.gitbook/assets/about_terminology_individual_2019-07-09-1.png)
 
 Human beings with names. An individual signs up to Open Collective with their email address. An individual can take on different roles throughout the platform.
 
-### Organizations ![](/.gitbook/assets/about_terminology_organization_2019-07-09-1.png)
+### Organizations ![](../.gitbook/assets/about_terminology_organization_2019-07-09-1.png)
 
 An [Organization](../financial-contributors/organizations/) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
 
-#### Organization Admins ![](/.gitbook/assets/about_terminology_individual_2019-07-09-8.png)
+#### Organization Admins ![](../.gitbook/assets/about_terminology_individual_2019-07-09-8.png)
 
 Individual\(s\) who create and/or manage the Organization profile. They have rights to edit the settings of the Organization, set up financial contributions to Collectives, and set up gift cards, among other things.
 
@@ -143,7 +140,7 @@ Do not capitalize the above words when they do not refer to the name of a role o
 
 There are a lot of names and terms we have used in the past or that have common meanings close to roles and entities on the platform. It's important to use language that your intended audience will understand and identify with, so no words are banned, but be mindful of using the below terms as they can easily introduce confusion.
 
-#### **User** 
+#### **User**
 
 Everyone is a user, so it's not super helpful when trying to refer to something more specific.
 
