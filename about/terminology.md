@@ -13,7 +13,7 @@ People are _individuals_. **They can form** _entities_ inside Open Collective, l
 
 ## Entities & structure
 
-![](../.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
+![](/.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
 
 ### Individuals ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%281%29.png)
 
@@ -31,7 +31,7 @@ Individual\(s\) who create and/or manage the Organization profile. They have rig
 
 A [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) is a type of Organization.
 
-Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account, and can generate invoices and receipts for Financial Contributors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
+Fiscal hosting enables Collectives (to transact financially without needing to legally incorporate). A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account, and can generate invoices and receipts for Financial Contributors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
 
 #### **Fiscal Host Admin** ![](../.gitbook/assets/about_terminology_individual_2019-07-09.png)
 
