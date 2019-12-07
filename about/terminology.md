@@ -143,7 +143,7 @@ Do not capitalize the above words when they do not refer to the name of a role o
 
 There are a lot of names and terms we have used in the past or that have common meanings close to roles and entities on the platform. It's important to use language that your intended audience will understand and identify with, so no words are banned, but be mindful of using the below terms as they can easily introduce confusion.
 
-#### **User**
+#### **User** 
 
 Everyone is a user, so it's not super helpful when trying to refer to something more specific.
 
