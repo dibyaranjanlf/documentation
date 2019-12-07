@@ -13,17 +13,17 @@ People are _individuals_. **They can form** _entities_ inside Open Collective, l
 
 ## Entities & structure
 
-![](../.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
+![](/.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
 
-### Individuals ![](../.gitbook/assets/about_terminology_individual_2019-07-09-1.png)
+### Individuals ![](/.gitbook/assets/about_terminology_individual_2019-07-09-1.png)
 
 Human beings with names. An individual signs up to Open Collective with their email address. An individual can take on different roles throughout the platform.
 
-### Organizations ![](../.gitbook/assets/about_terminology_organization_2019-07-09-1.png)
+### Organizations ![](/.gitbook/assets/about_terminology_organization_2019-07-09-1.png)
 
 An [Organization](../financial-contributors/organizations/) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
 
-#### Organization Admins ![](../.gitbook/assets/about_terminology_individual_2019-07-09-8.png)
+#### Organization Admins ![](/.gitbook/assets/about_terminology_individual_2019-07-09-8.png)
 
 Individual\(s\) who create and/or manage the Organization profile. They have rights to edit the settings of the Organization, set up financial contributions to Collectives, and set up gift cards, among other things.
 
