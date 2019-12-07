@@ -1,6 +1,6 @@
 # Values
 
-## **Values**
+## Values
 
 **Sustainability**: We can’t achieve our mission unless we are sustainable doing it. We take a broad definition of sustainability as financial, collective and individual sustainability.
 
