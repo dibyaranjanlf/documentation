@@ -10,7 +10,7 @@ People are _individuals_. **They can form** _entities_ inside Open Collective, l
 
 ## Entities & structure
 
-![](../.gitbook/assets/about_terminology_entities-and-structure_2019-07-09.png)
+![]
 
 ### Individuals ![](../.gitbook/assets/about_terminology_individual_2019-07-09-1.png)
 
