@@ -1,14 +1,14 @@
 # Team
 
-## **Pia Mancini**
+## Pia Mancini
 
-Core contributor  
-Co-founder & CEO  
+Core contributor
+Co-founder & CEO
 Madrid, Spain
 
 [Twitter](https://twitter.com/piamancini%20), [LinkedIn](https://www.linkedin.com/in/piamancini/)
 
-## **Xavier Damman**
+## Xavier Damman
 
 Core contributor  
 Co-founder  
