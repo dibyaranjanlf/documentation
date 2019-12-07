@@ -20,6 +20,10 @@ To update your logo image, hover over it and click on **Edit logo**, or simply d
 
 ![](../.gitbook/assets/avatar-edit.gif)
 
+{% page-ref page="../product/currencies.md" %}
+
+
+
 {% hint style="info" %}
 All logos are displayed on a white background, so white logos will not be visible. If you want to use a white logo, upload an image with a colored background instead of a transparent one.
 {% endhint %}

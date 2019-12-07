@@ -11,11 +11,11 @@ Roadmap September 2019 - January 2020
 
 ## **New Collective Page**
 
-In response to your feedback, we've made some big improvements to the design and functionality of Collective pages (and individual and organization profiles too).
+In response to your feedback, we've made some big improvements to the design and functionality of Collective pages \(and individual and organization profiles too\).
 
 * Owner: Pia
 * Status: v1 Shipped 09-23-2019
-* Metric(s): 
+* Metric\(s\): 
   * Related complaints and support requests
   * Fewer people contacting us instead of projects
   * Conversions to contribution flow
@@ -34,7 +34,7 @@ We are re-focusing on projects that want to manage funds through the platform an
 * Metrics:
   * Collectives create from homepage
   * Page load time
-  * Clarity of message (qualitative) - we feel confident about
+  * Clarity of message \(qualitative\) - we feel confident about
 
 ## **Onboarding Flow & Business Model**
 
@@ -48,7 +48,7 @@ We are re-focusing on projects that want to manage funds through the platform an
 ## **Expense Flow Redesign:**
 
 * [Issue](https://github.com/opencollective/opencollective/issues/2394)
-* Owner: Alanna (and Pia)
+* Owner: Alanna \(and Pia\)
 * Status: Design 
 * Implementation: End of October
 * Metrics:
