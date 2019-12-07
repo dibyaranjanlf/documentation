@@ -16,7 +16,7 @@ On your **Profile** page, you are able to customize the following:
 
 Click on **Edit cover** to access to upload a new cover image.
 
-![](../.gitbook/assets/product_user-profile_cover-options_2019-11-15%20%281%29.png)
+![](../.gitbook/assets/product_user-profile_cover-options_2019-11-15-1.png)
 
 After uploading a image, you are able to adjust it as you wish by either moving it and zooming in and out.
 
@@ -48,7 +48,7 @@ Here you are able to edit basic info such as **Name**, **Company**, **Short desc
 
 Go to **Advanced** and specify your new email address in the box under the **Email address** section. You'll get a confirmation and then your new email will be active.
 
-![](../.gitbook/assets/product_user-profile_new-email_2019-11-15%20%281%29.gif)
+![](../.gitbook/assets/product_user-profile_new-email_2019-11-15-1.gif)
 
 ### Deleting your account
 
@@ -68,7 +68,7 @@ If your account has a history of transactions, your only option is archiving you
 
 To archive your account, go to the **Archive this Account** section and click on **Archive this account**.
 
-![](../.gitbook/assets/product_user-profile_advanced_archive_2019-11-15%20%281%29.png)
+![](../.gitbook/assets/product_user-profile_advanced_archive_2019-11-15-1.png)
 
 ![](../.gitbook/assets/product_user-profile_advanced_archive_2019-11-15.gif)
 

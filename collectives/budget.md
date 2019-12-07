@@ -52,7 +52,7 @@ Open the “RAW FILE” tab inside the file.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983068990_Schermata+2019-08-16+alle+14.16.44.png)
 
-You will see something like this: _\*\*_Now, you will have to do some tweaks to the data before we can use it…
+You will see something like this: \_\*\*\_Now, you will have to do some tweaks to the data before we can use it…
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983259029_Schermata+2019-08-16+alle+14.20.15.png)
 

@@ -189,7 +189,7 @@ Remember: `README.md` creates a page with the same name of your new folder. Mark
 
 **3.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the right branch as a comparison.
 
-![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16%20%281%29.png)
+![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16-1.png)
 
 {% hint style="warning" %}
 Don't forget to add any new pages to the `SUMMARY.md` file, and remember to link them to their source file. New unsorted pages should be added as items on an unordered list:

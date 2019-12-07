@@ -6,8 +6,6 @@ description: >-
 
 # Events
 
-
-
 {% hint style="warning" %}
 This functionality is still in experimental phase.
 {% endhint %}

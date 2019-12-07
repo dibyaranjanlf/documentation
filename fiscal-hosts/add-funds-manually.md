@@ -10,23 +10,19 @@ Clicking on **Add Funds** should direct you to this form:
 
 ![](../.gitbook/assets/fiscal-hosts_add-funds-manually_add-funds-screen_2019-11-25.png)
 
-
-
-### Amount
+## Amount
 
 The amount of funds you want to send to a Collective.
 
-### Description
+## Description
 
 A short description of those funds.
 
-### Source
+## Source
 
 The origin of those funds. It can be your Fiscal Host, another Collective, or an Organization.
 
-### Host fee
+## Host fee
 
 Your host fee, already set to your default.
-
-
 

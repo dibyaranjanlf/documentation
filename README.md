@@ -2,8 +2,7 @@
 
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
-{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" %}
-
+{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" caption="" %}
 
 Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.
 
@@ -21,7 +20,7 @@ Read our [**Terminology**](about/terminology.md) page to know more about all key
 
 {% page-ref page="about/terminology.md" %}
 
-{% page-ref page= "about/company.md" %}
+{% page-ref page="about/company.md" %}
 
 ### Using our search bar
 
@@ -69,7 +68,7 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### How is it different from other platforms?
 
-[Open Collective is different.](product/comparison.md) It's fully transparent (you can see where money comes from and where it goes), and designed for ongoing communities, not individual creators or one-off campaigns.
+[Open Collective is different.](product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\), and designed for ongoing communities, not individual creators or one-off campaigns.
 
 ### How much does it cost?
 

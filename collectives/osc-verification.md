@@ -40,7 +40,7 @@ If you believe that you may have linked the wrong GitHub account to your Open Co
 
 **3.** On the **Applications** page, open the **Authorized OAuth Apps** tab and look for Open Collective..
 
-![](../.gitbook/assets/fiscal-host_open-source-collective_github-app-list_2019-10-28%20%281%29.png)
+![](../.gitbook/assets/fiscal-host_open-source-collective_github-app-list_2019-10-28-1.png)
 
 ![](../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-apps_2019-10-28.png)
 

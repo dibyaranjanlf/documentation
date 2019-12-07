@@ -38,11 +38,7 @@ _Read on for more details._
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Pay out money⁶ | Payment processor fees |
-| :--- | :--- |
-
-
-¹ An instant page online to tell the world about your project
+</table>¹ An instant page online to tell the world about your project
 
 ² Track costs transparently to show what funds are for
 

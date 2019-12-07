@@ -34,7 +34,7 @@ Firefox offers [a built-in tool](https://support.mozilla.org/en-US/kb/firefox-sc
 
 ### Peek
 
-[Peek](https://github.com/phw/peek) is an open-source software that allows you to record portions of your screen and easily transform them into GIF, APNG,  MP4, or WebM.
+[Peek](https://github.com/phw/peek) is an open-source software that allows you to record portions of your screen and easily transform them into GIF, APNG, MP4, or WebM.
 
 ## Extensions
 
@@ -53,10 +53,4 @@ Do you have any suggestions of tools documentarians could use on this OS? Please
 Do you have any suggestions of tools documentarians could use on this OS? Please edit this tab!
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
 
